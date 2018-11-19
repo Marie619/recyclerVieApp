@@ -1,2 +1,4 @@
 # recyclerVieApp
-Recycler View for beginners
+
+First ever try to github
+We will build a recycler view app in this repository
